@@ -6,7 +6,7 @@
 
 Este repositorio contiene varios proyectos desarrollados para la materia de Inteligencia Artificial. Los proyectos incluyen dos juegos desarrollados con Phaser y redes neuronales, un modelo de CNN para la detección de robos, incendios, robos a casa habitación, incendios e inundaciones, un sistema de reconocimiento de emociones usando LBPH y un proyecto de "Buscando a Wally" utilizando Haar Cascade.
 
-Enlace a la carpeta con los archivos: [Carpeta de Proyectos de Inteligencia Artificial](https://drive.google.com/drive/folders/1i2y4aBbO-j0Q8QjTYZg3OW6puGhXqCZE?usp=sharing)
+Enlace a la carpeta con los archivos: [Carpeta con archivos](https://drive.google.com/drive/folders/1i2y4aBbO-j0Q8QjTYZg3OW6puGhXqCZE?usp=sharing)
 
 ## Contenidos
 
